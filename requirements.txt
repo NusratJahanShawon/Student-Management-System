@@ -1,0 +1,13 @@
+# Student Management System - Requirements
+# 
+# This project uses only Python standard library modules:
+# - tkinter (GUI framework)
+# - sqlite3 (database)
+# - csv (file handling)
+# - datetime (date/time operations)
+# - re (regular expressions)
+# - threading (for background operations)
+# - os, sys (system operations)
+#
+# No external dependencies required!
+# Python 3.7+ recommended for best compatibility.
